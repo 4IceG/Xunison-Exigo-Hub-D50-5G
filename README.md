@@ -15,8 +15,6 @@ My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [B
 <details>
    <summary>Pokaż | Show me</summary>
 
-- The purchased router has software provided by Zbtlink. | Zakupiony router posiada oprogramowanie dostarczone przez Zbtlink.
-
 ![](https://forum.openwrt.org/uploads/default/original/3X/d/9/d92a1660e463e3b93a9c53158456a9fa1b3599ce.png)
 
 Installing firmware / Recovery steps
@@ -38,4 +36,4 @@ gateway 192.168.1.1
 > Snapshots are built daily, and that sets time limits to installing new packages with opkg. Due to kernel version checksums, you can only install “kmod” kernel modules and other kernel version dependent modules from the exactly same snapshot build. So, a few hours after flashing the firmware you may not be able to install new modules with opkg any more (as the next snapshot has been built into the download repo and has different checksums).   
 > Obrazy snapshots budowane są codziennie, a to ustawia limity czasowe na instalację nowych pakietów za pomocą opkg. Z powodu sum kontrolnych wersji jądra, możesz zainstalować tylko moduły "kmod" i inne moduły zależne od wersji jądra z dokładnie tego samego snapshotu. Tak więc, kilka godzin po flashowaniu firmware możesz nie być w stanie zainstalować nowych modułów za pomocą opkg (ponieważ następny snapshot został wbudowany w repo i ma inne sumy kontrolne).
 
-## Work is in progress on the final, functional image.
+### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Work is in progress on the final, functional image  / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Trwają prace nad finalnym, działającym obrazem
