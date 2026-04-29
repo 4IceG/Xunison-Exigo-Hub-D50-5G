@@ -52,6 +52,9 @@ gateway 192.168.1.1
 > I installed the [luci-app-exigo-hub-d50-5g](https://github.com/4IceG/luci-app-exigo-hub-d50-5g/tree/main) package (it configures router and my packages, controls 4G and 5G LEDs).   
 > Dodałem pakiet [luci-app-exigo-hub-d50-5g](https://github.com/4IceG/luci-app-exigo-hub-d50-5g/tree/main) (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
 
++ #### Modem requires following packages to work in pcie mode / Modem do działania w pcie wymaga pakietów
+> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini) (mhi_q & quectel-cm & luci-proto-quectel) + [luci-app-exigo-hub-d50-5g](https://github.com/4IceG/luci-app-exigo-hub-d50-5g)
+
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Screenshot / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Zrzut ekranu
 
 ![](https://github.com/4IceG/Personal_data/blob/master/5G/Xunison.png?raw=true)
