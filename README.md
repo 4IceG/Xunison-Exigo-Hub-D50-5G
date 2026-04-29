@@ -1,5 +1,5 @@
 # Xunison-Exigo-Hub-D50-5G
-My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [Build: 28.04.2026].
+My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [Build: 29.04.2026].
 
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/xunisondevb.png?raw=true" />
@@ -49,8 +49,8 @@ gateway 192.168.1.1
 > Główny motyw: Bootstrap.
 
 + #### My modifications / Moje modyfikacje
-> I installed the luci-app-xunison package (it configures router and my packages, controls 4G and 5G LEDs).   
-> Dodałem pakiet luci-app-xunison (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
+> I installed the [luci-app-exigo-hub-d50-5g](https://github.com/4IceG/luci-app-exigo-hub-d50-5g/tree/main) package (it configures router and my packages, controls 4G and 5G LEDs).   
+> Dodałem pakiet [luci-app-exigo-hub-d50-5g](https://github.com/4IceG/luci-app-exigo-hub-d50-5g/tree/main) (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Screenshot / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Zrzut ekranu
 
