@@ -20,7 +20,7 @@ My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [B
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> OpenWrt installation procedure / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Procedura instalacji OpenWrt
 
 <details>
-   <summary>Pokaż | Show me</summary>
+   <summary>Show me</summary>
 
 ![](https://forum.openwrt.org/uploads/default/original/3X/d/9/d92a1660e463e3b93a9c53158456a9fa1b3599ce.png)
 
@@ -35,6 +35,22 @@ gateway 192.168.1.1
 6. Select the firmware file (factory)
 7. Click the update button once and wait for the router to restart
   
+</details>
+
+<details>
+   <summary>Pokaż</summary>
+
+![](https://forum.openwrt.org/uploads/default/original/3X/d/9/d92a1660e463e3b93a9c53158456a9fa1b3599ce.png)
+
+Instalacja oprogramowania / Procedura przywracania
+1. Wyłącz zasilanie
+2. Naciśnij i przytrzymaj przycisk reset (z tyłu routera)
+3. Włącz zasilanie (nie zwalniaj przycisku reset, dioda "Internet" (na froncie) powinna zostać włączona po 10 sekundach)
+4. Ustaw adres IP komputera na 192.168.1.2, maskę podsieci 255.255.255.0, bramę 192.168.1.1
+5. Otwórz przeglądarkę na komputerze i wpisz adres 192.168.1.254 (czyli mamy http://192.168.1.254)
+6. Wybierz plik oprogramowania (factory)
+7. Kliknij raz przycisk aktualizacji i poczekaj, aż router się zrestartuje
+
 </details>
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> What You Should Know / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Co powinieneś wiedzieć
