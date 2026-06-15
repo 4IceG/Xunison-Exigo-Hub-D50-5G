@@ -1,5 +1,5 @@
 # Xunison-Exigo-Hub-D50-5G
-My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [Build: 31.05.2026].
+My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [Build: 14.06.2026].
 
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/xunisondevb.png?raw=true" />
